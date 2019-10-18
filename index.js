@@ -20,6 +20,6 @@ function inc(a) {
   return number;
 }
 function dec(a) {
-  number a - 1;
+  number= a - 1;
   return number;
 }
